@@ -1,5 +1,5 @@
-# 💫 About Me:
- I believe in technology, I believe in creativity, and together, they lead us to a great world and amazing life.
+# 💫 Hey Everyone, I'm Kamran!
+ A passionate Mobile Enginner with believe in technology, I believe in creativity, and together, they lead us to a great world and amazing life.
 
 
 ## 🌐 Socials:
