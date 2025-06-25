@@ -1,6 +1,5 @@
-# 💫 Hey Everyone, I'm Kamran!
+# 💫 Hey Everyone!
  A passionate Mobile Enginner with believe in technology, I believe in creativity, and together, they lead us to a great world and amazing life.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kmnno) 
@@ -27,5 +26,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kmno&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
