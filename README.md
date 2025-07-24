@@ -1,5 +1,5 @@
 # 💫 Hey Everyone!
- A passionate Mobile Enginner with believe in technology, I believe in creativity, and together, they lead us to a great world and amazing life.
+ Android Engineer with over 8 years of experience architecting and delivering high-performance, secure mobile applications in fintech and telecommunications. Proven track record of reducing crash rates by up to 50%, cutting app startup times by 25–30%, and boosting user engagement and retention through data-driven enhancements. Expert in Kotlin, Java, Jetpack Compose and Clean Architecture, with hands-on experience integrating OAuth-based security, CI/CD pipelines, Firebase, and GraphQL to drive reliability and scalability. Led Agile teams and mentored developers, driving technical excellence and business impact through optimized user experiences.
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
